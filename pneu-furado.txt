@@ -1,0 +1,15 @@
+Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+
+1 – Abra o porta-malas e pegue o kit para trocas e o estepe.
+2 – Feche o porta-malas.
+3 – Esse “kit para troca” deve conter: Triângulo de sinalização, chave de roda e macaco hidráulico.
+4 – Coloque o triângulo de sinalização atrás do carro para alertar as pessoas ou motoristas que passam em volta.
+5 – Pegue a chave de roda, vá em direção ao pneu furado, e desaperte um pouco girando as porcas no sentido anti-horário.
+6 – Pegue o macaco hidráulico e coloque perto da roda e erga o carro.
+7 – Apanhe novamente a chave de roda, terminando de desapertar as porcas.
+8 – Retire o pneu furado, pegando o estepe e colocando no lugar do mesmo.
+9 – Novamente pegue a chave de roda, pegando as porcas, colocando no lugar e as apertando com a chave.
+10 – Desça o carro, retirando o macaco hidráulico.
+11 – Aperte novamente as porcas, para ter maior segurança.
+12 – Recolha as ferramentas guardando na caixa junto com o pneu.
+13 – Abra o porta-malas e guarde as ferramentas e o pneu
