@@ -1,0 +1,8 @@
+README.md  provas-corrigidas.txt
+Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+
+1 - Empilhe as provas
+2 - Faça o gabarito com as respostas
+3 - Corrija uma a uma de acordo com o gabarito das respostas
+4 - Dê a nota
+5 - Repita o processo em todas as provas, até que estejam todas corrigidas
