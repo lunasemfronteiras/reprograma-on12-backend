@@ -1,0 +1,11 @@
+Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+
+1 - Faça um grupo de crinças
+2 - Explique o comando morto: crianças devem ficar agaixadas
+3 - Explique o comando vivo: crianças devem permancer em pé
+4 - Inicie a brincadeira
+5 - Diga o comando : "Morto"
+6 - Diga o comando: "Vivo"
+7 - Repita-os
+8 - Se alguma criança agaixar no comando "vivo" ou ficar em pé no comando "morto", estará desclassificada da brincadeira
+9 - Senão, segue no jogo.
