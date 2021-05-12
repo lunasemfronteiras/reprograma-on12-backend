@@ -1,0 +1,13 @@
+Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada:
+
+1 - Posicione uma escada embaixo da lâmpada queimada 
+2 - Suba a escada
+3 - Retire a lâmpada queimada
+4 - Desça a escada
+5 - Pegue uma lâmpada nova
+6 - Suba a escada
+7 - Insira a lâmpada nova
+8 - Desça a escada
+9 - Ligue o interruptor
+10 - Se acender, retire a escada abaixo da lâmpada
+11 - Senão, repita o processo.
