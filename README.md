@@ -21,6 +21,29 @@ repete Ligo o interruptor
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
+```
+    Vou até a pia
+    verifico pratos da pia
+	se pratos na pia estiverem limpos finalizo a ação
+	senao
+		pego bucha de lavar louça
+        ligo a torneira
+		molho a bucha
+        desligo a torneira
+		coloco sabão ou detergente na bucha
+		esfrego a bucha nos pratos  um a um
+		coloco bucha de lado
+        ligo a torneira
+		enxaguo prato
+        desligo a torneira
+         verificando se estão limpos
+			se limpos
+				coloco no escorredor
+	senao repete verifico pratos da pia
+		
+
+
+
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
