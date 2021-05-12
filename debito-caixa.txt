@@ -1,0 +1,10 @@
+Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+
+1 - Posicione-se em frente ao Caixa Eletrônico
+2 - Insira seu cartão no Caixa Eletrônico
+3 - Escolha a opção "Débito"
+4 - Digite o valor a ser sacado
+5 - Digite a senha do seu cartão 
+6 - Retire o cartão do caixa eletrônico
+7 - Espere o dinheiro sair 
+
