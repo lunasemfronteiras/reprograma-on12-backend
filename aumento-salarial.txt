@@ -1,0 +1,25 @@
+Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários 
+que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome 
+		escreva("Nome do funcionário: ")
+		leia (nome)
+		real a, porcentagem1, porcentagem2
+		escreva("Qual o seu salário na empresa? ")
+		leia (a)	
+
+		porcentagem1 = a / 100 * 20
+		porcentagem2 = a / 100 * 10
+
+		se(a <=500){
+			escreva(nome , ",você receberá um aumento de ", porcentagem1)
+		}
+		senao
+			escreva(nome, ", você receberá um aumento de ", porcentagem2)
+	}
+}
