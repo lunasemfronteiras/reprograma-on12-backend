@@ -85,26 +85,7 @@ ir até o caixa eletrônico escolhido
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
-Pegue as provas. 
-    Corrigir questão por questao.
-    Se o aluno acertou todas as questões, fica com 10. 
-    Se errou uma questão, fica com 8.
-    Se errou duas questões, fica com 6.
-    Se errou três questões, fica com 4. 
-    Se errou quatro questões, fica com 2.
-    Se errou todas as questões, fica com 0. 
-    Coloque as notas no boletim do aluno
-
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
-
-``` 
-
-Quando ele disser morto todas as crianças deverão se agachar. 
-Quando ele disser "vivo", todas dão um pulinho e ficam em pé. 
-Quem errar e ficar agachado quando for para ficar em pé, ou vice-versa, sai do jogo. 
-A brincadeira continua até restar apenas um participante, que será o vencedor e vira o próximo líder.
-
-```
 
 7. Faça um algoritmo que some três números.
 
@@ -121,44 +102,8 @@ escrever soma
 ```
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
-```
-Var
-numero : inteiro
-
-Inicio
-
-       escreva("Escreva um número: ")
-       leia(numero)
-
-       se numero mod 2 = 0 entao
-           escreva("O número ", numero, " é par!")
-       senao
-           escreva("O número ", numero, " é ímpar!")
-       fimse
-
-
-```
 
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
-```
-
-Pegue prova v1 e prova v2
-somar v1 + v2
-o resultado da soma dividir por 2
-
-```
-
-
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
-
-``` 
-
-Se salário menor ou igual a quinhentos. 
-Salário vezes vinte dividido por cem. 
-Salário mais a porcentagem calculada. 
-Senao salário vezes dez dividido por cem. 
-Salário mais a porcentagem calculada.
-
-```
